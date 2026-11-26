@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc8fdc91-39b1-4b18-9b9d-f4a2c828bbe1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/01_without_architecture/01_nab_version/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_without_architecture/01_nab_version/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_without_architecture/01_nab_version/src/main/java/counter/CounterApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_without_architecture/01_nab_version/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_without_architecture/counter_00_bootstrap/00_counter_bootstrap/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/01_without_architecture/01_initial_version/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_without_architecture/counter_00_bootstrap/00_counter_bootstrap/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01_without_architecture/01_initial_version/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_without_architecture/counter_00_bootstrap/00_counter_bootstrap/src/main/java/counter/CounterApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/01_without_architecture/01_initial_version/src/main/java/counter/CounterApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_without_architecture/counter_00_bootstrap/00_counter_bootstrap/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/01_without_architecture/01_initial_version/src/main/java/module-info.java" afterDir="false" />
-    </list>
+    <list default="true" id="fc8fdc91-39b1-4b18-9b9d-f4a2c828bbe1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,22 +31,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/nabuntu/IdeaProjects/EPFC-analysis-and-design-project/01_without_architecture/01_nab_version",
-    "node.js.detected.package.jshint": "true",
-    "node.js.selected.package.jshint": "",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/home/nabuntu/IdeaProjects/EPFC-analysis-and-design-project/01_without_architecture/src/Main.java",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/nabuntu/IdeaProjects/EPFC-analysis-and-design-project/01_without_architecture/01_nab_version&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/home/nabuntu/IdeaProjects/EPFC-analysis-and-design-project/01_without_architecture/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/01_without_architecture" />
