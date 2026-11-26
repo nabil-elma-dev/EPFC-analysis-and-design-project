@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc8fdc91-39b1-4b18-9b9d-f4a2c828bbe1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/01_without_architecture/01_nab_version/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_without_architecture/01_nab_version/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_without_architecture/01_nab_version/src/main/java/counter/CounterApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_without_architecture/01_nab_version/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_without_architecture/counter_00_bootstrap/00_counter_bootstrap/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/01_without_architecture/01_initial_version/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_without_architecture/counter_00_bootstrap/00_counter_bootstrap/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01_without_architecture/01_initial_version/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_without_architecture/counter_00_bootstrap/00_counter_bootstrap/src/main/java/counter/CounterApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/01_without_architecture/01_initial_version/src/main/java/counter/CounterApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_without_architecture/counter_00_bootstrap/00_counter_bootstrap/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/01_without_architecture/01_initial_version/src/main/java/module-info.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;nabil-elma-dev&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:nabil-elma-dev/EPFC-analysis-and-design-project.git&quot;,
+    &quot;accountId&quot;: &quot;afde6389-c2b0-471c-a871-1d2edf3e913b&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3Me7Kzv0uEt9oRPI6bIgOm88c1g" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/nabuntu/IdeaProjects/EPFC-analysis-and-design-project/01_without_architecture/01_nab_version",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/home/nabuntu/IdeaProjects/EPFC-analysis-and-design-project/01_without_architecture/src/Main.java",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/01_without_architecture" />
+      <recent name="$PROJECT_DIR$/01_without_architecture/counter_00_nab_version" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-ac68fc9d2b05-intellij.indexing.shared.core-IU-263.7307.353" />
+        <option value="bundled-js-predefined-d6986cc7102b-56aff7b04f6f-JavaScript-IU-263.7307.353" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc8fdc91-39b1-4b18-9b9d-f4a2c828bbe1" name="Changes" comment="" />
+      <created>1795699119841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1795699119841</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
